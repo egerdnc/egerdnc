@@ -1,5 +1,4 @@
 <!--START_SECTION:waka-->
-WAKATIME_API_KEY = f5bdc1cb-e29c-417c-81d2-158aa962e79c
 <!--END_SECTION:waka-->
 
 
