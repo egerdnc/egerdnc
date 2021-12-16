@@ -2,4 +2,6 @@
 |:-:|:-:|
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=i4a9i8pn8x8vvskq8v52yhckr)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=egerdnc&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
