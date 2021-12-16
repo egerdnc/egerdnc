@@ -2,3 +2,4 @@
 |:-:|:-:|
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=i4a9i8pn8x8vvskq8v52yhckr)
+![Jokes Card](https://readme-jokes.vercel.app/api)
