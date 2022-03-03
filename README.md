@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Lua          1 hr            ██████████████████████░░░   88.13 %
-JavaScript   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
