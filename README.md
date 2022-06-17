@@ -14,6 +14,6 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<br>
-<br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=i4a9i8pn8x8vvskq8v52yhckr)
+<br>
+<br>
