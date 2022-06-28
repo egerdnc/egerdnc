@@ -5,10 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Lua          19 mins         ███████████████████▓░░░░░   78.85 %
-TypeScript   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
