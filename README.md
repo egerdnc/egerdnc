@@ -12,7 +12,9 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wak
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=i4a9i8pn8x8vvskq8v52yhckr)
 <br>
 <br>
+
+-->
